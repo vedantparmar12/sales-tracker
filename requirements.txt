@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+beautifulsoup4
+lxml
+google-search-results
+streamlit
+pydantic
+python-dotenv
